@@ -68,20 +68,4 @@ It provides simple screens for **encryption** and **decryption**, so you can see
 
 If you update Gradle, Android Gradle Plugin, or target SDK versions, make sure the project still builds cleanly on a fresh checkout.
 
----
-
-## Contributing
-
-Contributions that improve code clarity, documentation, or add small focused examples (e.g. additional modes or parameter visualizations) are welcome.
-
-- **Fork** the repository.
-- **Create** a feature branch.
-- **Make changes** with clear, descriptive commit messages.
-- **Open a pull request** with a short summary of what you changed and why.
-
----
-
-## License
-
-Specify your preferred license for this project here (for example, MIT, Apache 2.0, or a custom/educational license). Once you decide, add a `LICENSE` file at the repository root so others know how they can use this code.
 
