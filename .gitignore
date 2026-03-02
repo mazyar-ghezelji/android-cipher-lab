@@ -1,11 +1,27 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches/build_file_checksums.ser
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
+### OS / editor noise
 .DS_Store
-/build
-/captures
-.externalNativeBuild
+Thumbs.db
+
+### IntelliJ / Android Studio
+.idea/
+*.iml
+
+### Gradle
+.gradle/
+build/
+**/build/
+
+### Android SDK / local machine config
+local.properties
+
+### Native build artifacts
+.externalNativeBuild/
+.cxx/
+
+### Android Studio captures & profiles
+captures/
+*.hprof
+
+### Keystores (never commit)
+*.jks
+*.keystore
